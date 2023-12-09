@@ -38,7 +38,5 @@ To get started with the Poll Management App, follow these steps:
 
 Explore the live demo of the Poll Management App [here](https://poll-management.web.app/).
 
-## Contributors
 
-- [Your Name](https://github.com/your-username)
 
